@@ -13,7 +13,7 @@ from bs4 import BeautifulSoup
 '''
 VARIABLES
 '''
-marketaux_api = 'KrIL4Vsk3gN0Urh321oUHk5WI0cjMbUNYKqBiMyv'
+marketaux_api = 'Insert Key'
 bloomberg_web = 'https://www.bloomberg.com/markets'
 
 '''
