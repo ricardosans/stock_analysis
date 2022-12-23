@@ -7,7 +7,8 @@ Repository containing various scripts on quant stock analysis and sentiment anal
 - **industries.py**: This script automatically exctracts the name of those actively-tradad companies in the US and assigns an industry to them (e.g.,
                  Sanofi --> Pharmaceutical) by web scraping publicly available data on the internet.
 
-- **news.py**: [Work in progress] This code pursues to extract text news from the Bloomberg.com webpage by means of webscraping.
+- **news.py**: [Work in progress] This code pursues to extract text news from the Bloomberg.com webpage by means of webscraping, to later perform
+               sentiment analysis.
 
 - **technical_analysis.py**: [Work in progress] This script is meant to extract technical information from stock prices, such as the Simple Moving Average,
                          Bollinger Bands and others.
