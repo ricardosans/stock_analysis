@@ -18,7 +18,7 @@ from webdriver_manager.chrome import ChromeDriverManager
 VARIABLES
 '''
 web = 'https://stockanalysis.com/stocks/'
-alpha_key = 'NJ26SD97G2URK3V0'
+alpha_key = 'Insert API Key'
 
 '''
 FUNCTIONS
