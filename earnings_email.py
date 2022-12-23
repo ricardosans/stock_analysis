@@ -17,7 +17,7 @@ from pretty_html_table import build_table
 '''
 API credentials
 '''
-apikey = 'NJ26SD97G2URK3V0'
+apikey = 'Insert API key'
 
 
 '''
